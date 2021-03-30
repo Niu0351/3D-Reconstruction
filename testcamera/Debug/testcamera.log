@@ -1,0 +1,325 @@
+﻿  CCalib.cpp
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(37,52): error C2065:  “CV_CALIB_CB_ADAPTIVE_THRESH”: 未声明的标识符
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(37,82): error C2065:  “CV_CALIB_CB_FILTER_QUADS”: 未声明的标识符
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(38,52): error C2065:  “CV_CALIB_CB_ADAPTIVE_THRESH”: 未声明的标识符
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(38,82): error C2065:  “CV_CALIB_CB_FILTER_QUADS”: 未声明的标识符
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(91,74): error C2065:  “CV_CALIB_THIN_PRISM_MODEL”: 未声明的标识符
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(93,74): error C2065:  “CV_CALIB_THIN_PRISM_MODEL”: 未声明的标识符
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(181,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(181,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(181,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(181,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(181,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(181,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(181,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(181,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(181,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(182,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(182,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(182,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(182,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(182,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(182,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(182,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(182,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(182,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(183,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(183,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(183,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(183,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(183,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(183,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(183,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(183,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(183,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(184,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(184,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(184,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(184,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(184,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(184,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(184,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(184,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(184,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(189,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(189,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(189,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(189,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(189,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(189,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(189,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(189,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(189,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(190,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(190,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(190,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(190,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(190,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(190,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(190,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(190,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(190,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(191,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(191,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(191,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(191,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(191,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(191,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(191,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(191,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(191,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(192,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(192,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(192,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(192,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(192,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(192,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(192,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(192,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(192,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(196,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(196,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(196,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(196,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(196,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(196,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(196,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(196,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(196,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(197,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(197,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(197,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(197,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(197,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(197,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(197,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(197,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(197,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(198,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(198,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(198,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(198,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(198,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(198,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(198,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(198,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(198,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(199,37): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(199,37): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(199,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(199,37): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(199,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(199,37): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(199,37): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(199,37): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(199,37): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(222,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(222,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(222,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(222,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(222,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(222,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(222,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(222,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(222,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(223,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(223,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(223,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(223,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(223,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(223,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(223,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(223,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(223,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(224,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(224,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(224,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(224,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(224,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(224,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(224,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(224,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(224,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(225,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(225,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(225,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(225,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(225,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(225,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(225,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(225,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(225,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(226,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(226,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(226,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(226,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(226,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(226,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(226,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(226,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(226,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(227,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(227,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(227,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(227,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(227,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(227,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(227,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(227,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(227,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(228,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(228,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(228,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(228,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(228,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(228,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(228,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(228,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(228,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(229,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(229,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(229,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(229,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(229,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(229,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(229,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(229,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(229,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(230,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(230,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(230,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(230,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(230,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(230,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(230,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(230,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(230,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(240,48): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(240,48): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(240,48): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(240,48): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(240,48): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(241,48): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(241,48): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(241,48): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(241,48): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(241,48): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(242,48): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(242,48): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(242,48): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(242,48): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(242,48): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(259,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(259,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(259,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(259,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(259,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(259,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(259,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(259,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(259,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(260,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(260,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(260,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(260,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(260,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(260,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(260,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(260,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(260,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(261,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(261,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(261,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(261,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(261,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(261,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(261,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(261,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(261,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(262,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(262,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(262,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(262,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(262,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(262,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(262,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(262,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(262,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(263,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(263,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(263,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(263,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(263,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(263,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(263,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(263,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(263,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(264,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(264,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(264,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(264,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(264,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(264,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(264,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(264,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(264,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(265,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(265,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(265,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(265,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(265,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(265,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(265,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(265,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(265,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(266,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(266,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(266,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(266,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(266,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(266,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(266,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(266,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(266,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(267,40): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(267,40): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(267,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(267,40): warning C4244:             _Tp=double
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(267,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(267,40): warning C4244:         and
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(267,40): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(267,40): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(267,40): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(277,48): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(277,48): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(277,48): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(277,48): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(277,48): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(278,48): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(278,48): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(278,48): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(278,48): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(278,48): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(279,48): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(279,48): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(279,48): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(279,48): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(279,48): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(395,21): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(395,21): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(395,21): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(395,21): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(395,21): warning C4244:         ]
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(396,21): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(396,21): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(396,21): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(396,21): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(396,21): warning C4244:         ]
+  Measure.cpp
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(397,21): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(397,21): warning C4244:         with
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(397,21): warning C4244:         [
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(397,21): warning C4244:             _Tp=float
+D:\CameraCalibration\testcamera\testcamera\CCalib.cpp(397,21): warning C4244:         ]
+  正在生成代码...
+D:\CameraCalibration\testcamera\testcamera\Measure.h(13,21): warning C4305:  “初始化”: 从“double”到“float”截断
